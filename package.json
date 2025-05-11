@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@prb/math": "^4.1.0",
+    "solidity-bytes-utils": "^0.8.3"
+  }
+}
